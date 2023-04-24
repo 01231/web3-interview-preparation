@@ -1181,7 +1181,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Which consensus mechanism does Ethereum use?</summary>
     <ul>
       <li>
-        Ethereum currently uses proof of Work but plans to use proof of stake in Ethereum 2.0
+        Ethereum uses a proof-of-stake (PoS) based consensus protocol. It used to use Proof-of-Work (PoW), but Ethereum switched off proof-of-work in 2022 and started using proof-of-stake instead.
       </li>
     </ul>
 </details>
